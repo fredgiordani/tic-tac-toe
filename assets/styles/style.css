@@ -1,0 +1,55 @@
+h1{
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    color: cornflowerblue;
+}
+
+td{
+    height:150px;
+    width: 150px;
+    background-color: lightseagreen;
+    text-align: center;
+    font-size: 40px;
+    border: 3px solid black;
+}
+
+table{
+    margin:auto;
+    margin-top: 10%;
+}
+
+.victory{
+        margin: auto;
+        text-align: center;
+        font-size: 50px;
+        color: red;
+}
+
+.resultat{
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.info{
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.info2{
+    margin: auto;
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.player{
+    width:40%;
+    border-radius: 10px;
+    margin-top: 50px;
+    text-align: center;
+}
